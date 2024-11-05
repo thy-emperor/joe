@@ -1,0 +1,5 @@
+git remote add space https://huggingface.co/spaces/mistermprah/stockstream
+git add .
+git commit -m "Initial commit"
+git push --force space main
+git push --force space master:main
